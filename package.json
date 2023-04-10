@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-rv-web-nextjs",
+  "version": "0.0.1",
+  "description": "RV web next.js eslint config",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "@next/eslint-plugin-next": "^13.3.0",
+    "eslint": ">= 8",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.7"
+  }
+}
