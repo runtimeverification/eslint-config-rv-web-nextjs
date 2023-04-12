@@ -18,6 +18,7 @@ module.exports = {
     '@typescript-eslint/no-floating-promises': 'off',
     '@typescript-eslint/no-unused-vars': 'warn',
     '@typescript-eslint/no-misused-promises': 'off',
+    '@typescript-eslint/prefer-nullish-coalescing': 'error',
     'react-hooks/exhaustive-deps': 'warn',
     'no-shadow': 'off',
     'no-empty': 'off',
